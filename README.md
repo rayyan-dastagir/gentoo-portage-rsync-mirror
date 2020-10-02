@@ -1,4 +1,4 @@
-Past Gentoo rsync-to-git mirror
+Past Gentoo resync-to-git mirror
 ===============================
 
 This repository used to contain the Gentoo rsync tree packed into git
@@ -15,6 +15,6 @@ New resources:
 For development, please use either 1. or 2. You can submit Pull Requests
 either via mail (`git request-pull`) or using GitHub mirror.
 
-For user syncing, 3. is preferable. However, please do not submit Pull
+For user resyncing, 3. is preferable. However, please do not submit Pull
 Requests there. Also note that signatures are not mirrored there at
 the moment.
